@@ -27,7 +27,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
   - Find books by a specific author
   - Update the price of a specific book
   - Delete a book by its title
-
+g
 ### Task 3: Advanced Queries
 - Write a query to find books that are both in stock and published after 2010
 - Use projection to return only the title, author, and price fields in your queries
